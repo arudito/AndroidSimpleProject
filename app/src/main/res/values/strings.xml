@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleProjectWithDesign</string>
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+        <string name="navigation_view_item_1">Home</string>
+        <string name="navigation_view_item_2">Map</string>
+        <string name="navigation_view_item_3">Camera</string>
+    <string name="navigasi_kategori_2">Sub Item Navigasi</string>
+    <string name="navigation_view_item_4">Log Out</string>
+    <string name="navigation_view_item_5">About</string>    <string name="nameerror">Username is invalid</string>
+    <string name="passworderror">Password is invalid</string>
+    <string name="regexPassword"><![CDATA[^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$]]></string>
+
+</resources>
